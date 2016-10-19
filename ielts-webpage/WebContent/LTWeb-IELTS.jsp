@@ -79,19 +79,19 @@ div.cities {
 				<div class="content">
 				<div class="section group">
 				<div class="grid_1_of_3 images_1_of_3">
-					  <a href="details.jsp"><img src="pic1.jpg" alt="" /></a>
+					  <a href="details.jsp"><img src="Image/pic1.jpg" alt="" /></a>
 					  <h3>Lorem Ipsum is simply dummy</h3>
 					  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit.</p>
 				     <div class="button"><span><a href="#">Read More</a></span></div>
 				</div>
 				<div class="grid_1_of_3 images_1_of_3">
-					  <a href="details.jsp"><img src="pic1.jpg" alt="" /></a>
+					  <a href="details.jsp"><img src="Image/pic1.jpg" alt="" /></a>
 					  <h3>Lorem Ipsum is simply dummy</h3>
 					  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit</p>
 				     <div class="button"><span><a href="#">Read More</a></span></div>
 				</div>
 				<div class="grid_1_of_3 images_1_of_3">
-					  <a href="details.jsp"><img src="pic1.jpg" alt="" /></a>
+					  <a href="details.jsp"><img src="Image/pic1.jpg" alt="" /></a>
 					  <h3>Lorem Ipsum is simply dummy</h3>
 					  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit.</p>
 				     <div class="button"><span><a href="#">Read More</a></span></div>
@@ -105,13 +105,13 @@ div.cities {
 	</div>
 	<div class="section group">
 		<div class="grid_1_of_3 images_1_of_3">
-			<a href="details.jsp"><img src="pic1.jpg" alt=""/></a>
+			<a href="details.jsp"><img src="Image/pic1.jpg" alt=""/></a>
 		</div>
 		<div class="grid_1_of_3 images_1_of_3">
-			<a href="details.jsp"><img src="pic1.jpg" alt="" /></a>
+			<a href="details.jsp"><img src="Image/pic1.jpg" alt="" /></a>
 		</div>
 		<div class="grid_1_of_3 images_1_of_3">
-			<a href="details.jsp"><img src="pic1.jpg" alt="" /></a>
+			<a href="details.jsp"><img src="Image/pic1.jpg" alt="" /></a>
 		</div>
    </div>
 </div>
